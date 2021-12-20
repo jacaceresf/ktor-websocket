@@ -1,0 +1,1 @@
+rootProject.name = "jacaceresf.dev.ktor-websocket"
